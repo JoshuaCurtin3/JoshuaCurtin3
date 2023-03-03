@@ -19,4 +19,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh](https://www.instagram.com/joshuacurt3/
-[linkedin]: https://www.linkedin.com/in/curtinjoshua
+[linkedin]: https://www.linkedin.com/mwlite/in/curtinjoshua
